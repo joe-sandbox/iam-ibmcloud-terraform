@@ -1,0 +1,4 @@
+ibmcloud_api_key = "XXXXXXX"
+project_name = "myproject"
+admins_users = ["email@domain.com"]
+devs_users = ["email@domain.com"]
